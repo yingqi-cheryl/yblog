@@ -27,7 +27,7 @@ updated: 2020-05-4 10:37
 3. 新知呈现presentation/...前pre- 
 4. 练习practice/...中while-
 5. 产出production/...后post-
-6. 小结与作业summary and homewok（分层）
+6. 小结与作业summary and homework（分层）
 
 ## 六 板书设计blackboard design（语义功能）
 
